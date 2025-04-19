@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "T1 (1).C": "cpp",
+        "Q6.C": "cpp",
+        "Q2.C": "cpp",
+        "STACK.C": "cpp",
+        "DE_QUEUE.C": "cpp",
+        "LINKED_LIST.C": "cpp",
+        "T1.C": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "SLL.C": "cpp"
+    }
+}

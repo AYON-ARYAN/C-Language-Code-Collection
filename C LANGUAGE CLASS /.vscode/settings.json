@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "FACTORIAL.C": "cpp",
+        "Fatorial recursion.C": "cpp",
+        "Fatorial_recursion.C": "cpp",
+        "Q1.C": "cpp",
+        "Q4.C": "cpp",
+        "Q5.C": "cpp",
+        "EXPERIMENT.C": "cpp",
+        "ARNSTRONG_NUM.C": "cpp",
+        "factorial using pointers.C": "cpp"
+    }
+}
